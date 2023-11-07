@@ -28,7 +28,7 @@
 &none        &kp Q  &kp W  &kp E           &kp R       &kp T  &none                                           &none             &kp Y  &kp U       &kp I                &kp O    &kp P     &none
 &lt 3 LCTRL  &kp A  &kp S  &kp D           &kp F       &kp G  &none           &none  &none      &none  &none  &none             &kp H  &kp J       &kp K                &kp L    &kp SEMI  &none
 &none        &kp Z  &kp X  &hm LEFT_ALT C  &hm LCMD V  &kp B                         &none      &none                           &kp N  &hm RCMD M  &hm RIGHT_ALT COMMA  &kp DOT  &kp FSLH  &none
-&none        &none  &none  &none           &kp SPACE          &sk LEFT_SHIFT  &none  &none      &none  &none  &sk LEFT_CONTROL         &to 2       &none                &none    &none     &none
+&none        &none  &none  &none           &kp SPACE          &sk LEFT_SHIFT  &none  &none      &none  &none  &sk LEFT_CONTROL         &sl 2       &none                &none    &none     &none
             >;
         };
 
